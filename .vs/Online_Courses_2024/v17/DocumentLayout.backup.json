@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New_Version\\Online_Courses_2024_add_assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\views\\course\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:views\\course\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\service\\implementaion\\progressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:service\\implementaion\\progressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\service\\interfaces\\iprogressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:service\\interfaces\\iprogressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\views\\enroll\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:views\\enroll\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\views\\instructor\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:views\\instructor\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|d:\\new_version\\online_courses_2024_add_assignment\\service\\implementaion\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACEDE61-2323-4248-AC53-7B5E512AEB98}|Online_Courses_2024.csproj|solutionrelative:service\\implementaion\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetById.cshtml",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Course\\GetById.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\GetById.cshtml",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Course\\GetById.cshtml",
+              "RelativeToolTip": "Views\\Course\\GetById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T02:11:20.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProgressService.cs",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\service\\interfaces\\IProgressService.cs",
+              "RelativeDocumentMoniker": "service\\interfaces\\IProgressService.cs",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\service\\interfaces\\IProgressService.cs",
+              "RelativeToolTip": "service\\interfaces\\IProgressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:19:29.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgressService.cs",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\service\\implementaion\\ProgressService.cs",
+              "RelativeDocumentMoniker": "service\\implementaion\\ProgressService.cs",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\service\\implementaion\\ProgressService.cs",
+              "RelativeToolTip": "service\\implementaion\\ProgressService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:14:37.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAIwHcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:13:32.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:02:39.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T01:02:35.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Submit.cshtml",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Enroll\\Submit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Enroll\\Submit.cshtml",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Enroll\\Submit.cshtml",
+              "RelativeToolTip": "Views\\Enroll\\Submit.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T00:50:44.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstructorController.cs",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:47:45.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InstructorService.cs",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\service\\implementaion\\InstructorService.cs",
+              "RelativeDocumentMoniker": "service\\implementaion\\InstructorService.cs",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\service\\implementaion\\InstructorService.cs",
+              "RelativeToolTip": "service\\implementaion\\InstructorService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:47:29.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Instructor\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\About.cshtml",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Instructor\\About.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\About.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T00:40:15.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T00:38:34.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\New_Version\\Online_Courses_2024_add_assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T00:38:03.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
